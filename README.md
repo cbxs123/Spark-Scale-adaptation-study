@@ -1,5 +1,3 @@
-> 余传明,原赛,王峰,安璐.大数据环境下文本情感分析算法的规模适配研究:以Twitter为数据源[J].图书情报工作:1-10.
-
 大数据环境下文本情感分析算法的规模适配研究：以Twitter为数据源   [pdf](./大数据环境下文本情感分析算法的规模适配研-以Twitter为数据源.pdf)  [web](http://kns.cnki.net/kcms/detail/11.1541.G2.20190220.0953.003.html)  [数据集](https://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip)
 ===
 
@@ -47,3 +45,4 @@ style="zoom:60%" align=center />
 <img src="https://ws1.sinaimg.cn/large/e669e01fly1g2eoz64xwij20r408e3z3.jpg"
 style="zoom:60%" align=center />
 
+> **余传明,原赛,王峰,安璐.大数据环境下文本情感分析算法的规模适配研究:以Twitter为数据源[J].图书情报工作:1-10.**
