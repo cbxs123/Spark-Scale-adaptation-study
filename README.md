@@ -39,10 +39,12 @@ style="zoom:60%" align=center />
 style="zoom:60%" align=center />
 
 
-环境
+环 境
 ------------
 - 服务器平台配置信息
 <img src="https://ws1.sinaimg.cn/large/e669e01fly1g2eoz64xwij20r408e3z3.jpg"
 style="zoom:60%" align=center />
 
+参 考
+--------
 > **余传明,原赛,王峰,安璐.大数据环境下文本情感分析算法的规模适配研究:以Twitter为数据源[J].图书情报工作:1-10.**
